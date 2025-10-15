@@ -43,4 +43,25 @@ Developed by: RegisterNumber:
 
 **TRUTH TABLE**
 
+Logic Diagram:
+![EXP11 LOGIC DIAGRAM](https://github.com/user-attachments/assets/34fba6ea-43a5-403a-9c53-c681f0270c72)
+
+
+
+
+
+
+
+State Diagram:
+![EXP11 STATE DIAGRAM](https://github.com/user-attachments/assets/473891b5-218c-4bac-bbe4-d77e462d84a6)
+
+
+
+
+
+
+
+
+
+
 **RESULTS**
